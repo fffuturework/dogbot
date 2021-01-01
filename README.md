@@ -22,9 +22,9 @@ $ DB_SOURCE=[YOUR PAGEOBJECT URL] HEADLESS=true npx codeceptjs run --profile iph
 ```
 
 # Example of displaying trending keywords on Twitter in standard output
-[DB_SOURCE](https://gist.githubusercontent.com/freddiefujiwara/0f7a0d485a9d93ead09d4aefecf1b65d/raw/b69fb87249b7281fed79e619ced13336e3aca78f/dogbot-example-twitter-trend.js)
+[DB_SOURCE](https://gist.githubusercontent.com/fffuturework/dd8a412b5f0d96b7f8fcb5e7e1715f9b/raw/104d5128b80889c992d45ce3f6704a6fbd2a8afd/dogbot-example-twitter-trend.js)
 ```bash
-$ DB_SOURCE='https://gist.githubusercontent.com/freddiefujiwara/0f7a0d485a9d93ead09d4aefecf1b65d/raw/b69fb87249b7281fed79e619ced13336e3aca78f/dogbot-example-twitter-trend.js' HEADLESS=true npx codeceptjs run --verbose
+$ DB_SOURCE='https://gist.githubusercontent.com/fffuturework/dd8a412b5f0d96b7f8fcb5e7e1715f9b/raw/104d5128b80889c992d45ce3f6704a6fbd2a8afd/dogbot-example-twitter-trend.js' HEADLESS=true npx codeceptjs run --verbose
 CodeceptJS v3.0.4
 
 Using test root "/home/user/dogbot"
