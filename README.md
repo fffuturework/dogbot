@@ -7,7 +7,7 @@ you need to run  [chromedriver](https://chromedriver.chromium.org/downloads)  be
 
 # install
 ```bash
-$ git clone https://github.com/freddiefujiwara/dogbot
+$ git clone https://github.com/fffuturework/dogbot
 $ cd dogbot
 $ npm i
 ```
