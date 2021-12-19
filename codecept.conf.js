@@ -29,6 +29,9 @@ exports.config = {
           ]
         }
       }
+    },
+    DogBotHelper: {
+      require: './dogbotHelper.js'
     }
   },
   include: {
